@@ -1,0 +1,27 @@
+.card{
+  width:50%;
+  height:50%;
+  margin-left: 25%;
+  margin-top: 15%;
+}
+.find{
+  padding-left: 70%;
+  font-size: 85%;
+}
+.enter_home
+{
+  padding-left: 45%;
+}
+
+.container {
+  background: white;
+  padding: 20px 25px;
+  border: 5px solid #26a69a;
+  width: 550px;
+  height: auto;
+  box-sizing: border-box;
+  position: relative;
+}
+.card{
+  width:60%;
+}
